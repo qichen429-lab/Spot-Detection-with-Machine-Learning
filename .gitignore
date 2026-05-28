@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Training outputs
+*.keras
+model_config.json
+edge_pipeline_config.json
+predictions.csv
+figures/
+error_analysis/figures/
+
+# Data (OneDrive)
+dataset/metadata.csv
+dataset/metadata-checkpoint.csv
+dataset/lightcurves/

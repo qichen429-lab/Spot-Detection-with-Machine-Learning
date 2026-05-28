@@ -1,0 +1,9 @@
+{
+  "label": "has_crossing",
+  "level_max": 10,
+  "threshold": 0.22,
+  "threshold_mode": "min_fn",
+  "max_fp": 800,
+  "pos_class_mult": 2.0,
+  "channels": ["flux", "gradient"]
+}

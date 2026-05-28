@@ -1,0 +1,8 @@
+{
+  "label": "has_crossing",
+  "level_max": 5,
+  "thr_main": 0.37,
+  "thr_edge": 0.35,
+  "thr_route": 11.01,
+  "route_mode": "wings"
+}
